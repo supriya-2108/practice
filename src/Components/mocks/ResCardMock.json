@@ -1,0 +1,73 @@
+{
+    "info": {
+        "id": "395977",
+        "name": "La Pino'z Pizza",
+        "cloudinaryImageId": "v8f08ygis8qdybapb7lc",
+        "locality": "C Block",
+        "areaName": "Lajpat Nagar - 2",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+            "Pizzas",
+            "Pastas",
+            "Italian",
+            "Desserts",
+            "Beverages"
+        ],
+        "avgRating": 4.1,
+        "parentId": "4961",
+        "avgRatingString": "4.1",
+        "totalRatingsString": "5K+",
+        "sla": {
+            "deliveryTime": 25,
+            "lastMileTravel": 2.4,
+            "serviceability": "SERVICEABLE",
+            "slaString": "25 mins",
+            "lastMileTravelString": "2.4 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-01-28 05:00:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "60% OFF",
+            "subHeader": "UPTO ₹120"
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+        "context": "seo-data-9797fe6c-9cbe-4533-894b-7ee6d948c916"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/la-pinoz-pizza-c-block-lajpat-nagar-2-delhi-395977",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}
